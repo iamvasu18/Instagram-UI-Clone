@@ -39,7 +39,7 @@ Example layout:
 
 | Desktop View | Mobile View |
 |:-------------:|:------------:|
-| ![Desktop Screenshot](assets/preview-desktop.png) | ![Mobile Screenshot](assets/preview-mobile.png) |
+| ![Desktop Screenshot](assets/Preview.png) |
 
 ---
 
